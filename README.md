@@ -9,3 +9,4 @@ Each day solving challenge posted by HackerRank
 | 3 |Intro to conditional statement|
 | 4 |Class vs. Instance|
 | 5 |Loops|
+| 6 |Review|
