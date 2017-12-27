@@ -11,3 +11,4 @@ Each day solving challenge posted by HackerRank
 | 5 |Loops|
 | 6 |Review|
 | 7 |Arrays|
+| 8 |Dictionaries|
