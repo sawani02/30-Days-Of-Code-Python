@@ -13,3 +13,4 @@ Each day solving challenge posted by HackerRank
 | 7 |Arrays|
 | 8 |Dictionaries|
 | 9 |Recursion|
+| 10|Binary Numbers|
