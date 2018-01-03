@@ -15,3 +15,4 @@ Each day solving challenge posted by HackerRank
 | 9 |Recursion|
 | 10|Binary Numbers|
 | 15|Linked List|
+| 16|Exceptions|
