@@ -16,3 +16,4 @@ Each day solving challenge posted by HackerRank
 | 10|Binary Numbers|
 | 15|Linked List|
 | 16|Exceptions|
+| 17|More Exceptions|
