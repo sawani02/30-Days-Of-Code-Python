@@ -17,3 +17,4 @@ Each day solving challenge posted by HackerRank
 | 15|Linked List|
 | 16|Exceptions|
 | 17|More Exceptions|
+| 18|Stack and Queue|
