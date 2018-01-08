@@ -18,3 +18,5 @@ Each day solving challenge posted by HackerRank
 | 16|Exceptions|
 | 17|More Exceptions|
 | 18|Stack and Queue|
+| 19|Interface: not applicable for python by hackkerank|
+| 20|Bubble Sort|
